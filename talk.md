@@ -24,12 +24,14 @@ title: "List of presentations"
 ## Local talks
 
 ### Leuven Statistics Days
+* Theme: Collaboration
 * _Location:_ Leuven, Belgium
 * _Date:_ November 23, 2023
 * _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
 * [Presentation](Lstat_day.pdf)
 
-### Taiwan Studies Seminar “_Social Life and Governance in/after the Covid 19 Pandemic: A Comparison between Taiwan and the EU_”
+### Taiwan Studies Seminar 
+* Theme: Social Life and Governance in/after the Covid 19 Pandemic: A Comparison between Taiwan and the EU
 * _Location:_ Leuven, Belgium
 * _Date:_ May 3, 2023
 * _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
@@ -40,4 +42,4 @@ title: "List of presentations"
 * _Date:_ 21 October, 2021
 * _Title:_ A joint normal-binary(probit) model
 * [Presentation](RD_2021.pdf)
-* 
+  
