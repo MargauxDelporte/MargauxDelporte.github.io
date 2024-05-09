@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/margauxdelporte"}
   - {title: Subscribe, icon: rss, url: "https://www.researchgate.net/profile/Margaux-Delporte"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/margaux-delporte-28a360147/"}
-  - {title: Orcid, url: "https://orcid.org/0000-0001-6234-8860"}
+  - {title: ORCID, url: "https://orcid.org/0000-0001-6234-8860"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
