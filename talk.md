@@ -8,13 +8,13 @@ title: "List of presentations"
 * _Location:_ Portland, Oregon
 * _Date:_ August 3-8, 2024
 * _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](https://www.overleaf.com/read/dkzyztszxmcv#7bdcdb)
+* [Presentation]
   
 ### Eastern North American Region International Biometric Society 2023, Spring meeting
 * _Location:_ Nashville, Tennessee
 * _Date:_ March 19-22, 2023
 * _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](https://www.overleaf.com/read/dkzyztszxmcv#7bdcdb)
+* [Presentation](ENAR.pdf)
   
 ### Eastern North American Region International Biometric Society 2023, Spring meeting
 * _Location:_ Nashville, Tennessee
