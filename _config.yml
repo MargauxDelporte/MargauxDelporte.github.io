@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home}
-  - {file: "publist.html", title: Publications}
-  - {file: "talk.html", title: Talks}
-  - {file: "teach.html", title: Teaching}
+  - {file: "index.md", title: Home}
+  - {file: "publist.md", title: Publications}
+  - {file: "talk.md", title: Talks}
+  - {file: "teach.md", title: Teaching}
   - {file: "Margaux.pdf", title: CV}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:margaux.delporte@kuleuven.be"}
