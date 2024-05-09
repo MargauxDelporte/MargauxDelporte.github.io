@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Courses guided as teaching assistant"
+title: "Courses guided as a teaching assistant"
 ---
 
 ## Master courses
