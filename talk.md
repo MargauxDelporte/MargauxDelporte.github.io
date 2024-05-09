@@ -7,8 +7,7 @@ title: "List of presentations"
 ### Joint Statistical Meetings 2024
 * _Location:_ Portland, Oregon
 * _Date:_ August 3-8, 2024
-* _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation]
+* _Title:_ , A Joint Normal-Ordinal (Probit) Model for Ordinal and Continuous Longitudinal Data
   
 ### Eastern North American Region International Biometric Society 2023, Spring meeting
 * _Location:_ Nashville, Tennessee
