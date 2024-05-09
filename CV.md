@@ -1,1 +1,1 @@
-[Curriculum vitae](Margaux.pdf)
+[Curriculum vitae](CV2.pdf)
