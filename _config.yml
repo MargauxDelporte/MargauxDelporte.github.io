@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publist.md", title: Publications}
   - {file: "talk.md", title: Talks}
   - {file: "teach.md", title: Teaching}
-  - {file: "CV.pdf", title: CV}
+  - {file: "Margaux.pdf", title: CV}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:margaux.delporte@kuleuven.be"}
   - {title: Github, icon: github, url: "https://github.com/margauxdelporte"}
