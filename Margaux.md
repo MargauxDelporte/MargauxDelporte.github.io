@@ -14,9 +14,9 @@ Belgian
  * cum laude
 
 # Experience
-## PhD student – KU Leuven (50%) (2019-...)
+## PhD student – KU Leuven (2019-...)
  * Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_
-## Teaching Assistant – KU Leuven (50%) (2019-...)
+## Teaching Assistant – KU Leuven (2019-...)
  * Teaching statistical bachelor and master courses in the faculty of medicine
  * Guiding dissertations
  * Statistical consulting
