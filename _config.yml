@@ -17,8 +17,10 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home, icon: Home}
-  - {file: "README.md", title: About, icon: address-card}
-
+  - {file: "publist.md", title: Publications, icon: address-card}
+  - {file: "talk.md", title: Talks, icon: address-card}
+  - {file: "teach.md", title: Teaching, icon: address-card}
+  - {file: "Margaux.md", title: CV, icon: address-card}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:margaux.delporte@kuleuven.be"}
   - {title: Github, icon: github, url: "https://github.com/margauxdelporte"}
