@@ -14,7 +14,7 @@ title: "List of presentations"
 ## Local talks
 
 ### Leuven Statistics Days
-* Occasion: [Leuven Statistics Days](https://lstat.kuleuven.be/leuven_statistics_days_2023/lsd2023)
+* [Leuven Statistics Days](https://lstat.kuleuven.be/leuven_statistics_days_2023/lsd2023)
 * Date: 23 November 2023
 * Title: A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
 * [Presentation](https://www.overleaf.com/read/dkzyztszxmcv#7bdcdb)
