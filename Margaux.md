@@ -7,23 +7,23 @@ Belgian
 
 # Education
 
-* Master of Statistics
+## Master of Statistics
  * KU Leuven    magna cum laude 2017-2019
-* Bachelor of Psychology
+## Bachelor of Psychology
  * KU Leuven   cum laude 2014-2017
 
 # Experience
-* PhD student – KU Leuven (50%)
+## PhD student – KU Leuven (50%)
  * Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_ 
-* Teaching Assistant – KU Leuven (50%)
+## Teaching Assistant – KU Leuven (50%)
  * Teaching statistical bachelor and master courses in the faculty of medicine, guiding dissertations, statistical consulting
-* Data Science Intern – De Persgroep-Medialaan 
+## Data Science Intern – De Persgroep-Medialaan 
  * Personalization of the newsfeed 
-* Junior Statistician at Leuven Statistics Research Centre – KU Leuven
- * Providing consultancy and teaching short courses for researchers  
-* Data science intern – Vente-Exclusive via Exellys
+## Junior Statistician at Leuven Statistics Research Centre – KU Leuven
+ * Providing consultancy and teaching short courses for researchers
+## Data science intern – Vente-Exclusive via Exellys
  * Business intelligence and machine learning projects
-* Group fitness instructor – POP Pilates
+## Group fitness instructor – POP Pilates
 
 # Languages
 * Dutch
