@@ -2,9 +2,8 @@
 layout: page
 title: ""
 ---
-![Mgx_round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/efadd604-24aa-4014-8e50-094e091a4505)
+![Mgx_round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7)
 
-
-Margaux Delports is a PhD candidate in Biostatistics, approaching the end of her doctoral journey. Her current research is situated in longitudinal data analysis, with a PhD thesis titled "A Joint Model for Longitudinal Outcomes and Longitudinal Covariates".
+Margaux Delports is a PhD candidate in Biostatistics, approaching the end of her doctoral journey. Her current research is situated in longitudinal data analysis, with a PhD thesis titled "A Joint Model for Longitudinal Outcomes and Longitudinal Covariates". She has a background in Statistics (Msc.) and Pyschology (Bsc.).
 
 
