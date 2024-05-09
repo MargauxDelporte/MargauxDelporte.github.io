@@ -13,14 +13,8 @@ title: "List of presentations"
 ### Eastern North American Region International Biometric Society 2023, Spring meeting
 * _Location:_ Nashville, Tennessee
 * _Date:_ March 19-22, 2023
-* _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
+* _Title:_ A joint normal-binary (probit) model for high-dimensional data.
 * [Presentation](ENAR.pdf)
-  
-### Eastern North American Region International Biometric Society 2023, Spring meeting
-* _Location:_ Nashville, Tennessee
-* _Date:_ March 19-22, 2023
-* _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](https://www.overleaf.com/read/dkzyztszxmcv#7bdcdb)
   
 ### 31th International Biometric Conference
 * _Location:_ Riga, Latvia
