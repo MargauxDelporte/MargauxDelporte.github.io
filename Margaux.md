@@ -8,10 +8,10 @@ Belgian
 
 ## Master of Statistics (2017-2019)
  * KU Leuven
- * magna cum laude
+ * Magna cum laude
 ## Bachelor of Psychology (2014-2017)
  * KU Leuven
- * cum laude
+ * Cum laude
 
 # Experience
 ## PhD student – KU Leuven (2019-...)
