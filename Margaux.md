@@ -1,5 +1,3 @@
-# CURRICULUM VITAE 
-
 Margaux Delporte  
 margauxdelporte@gmail.com  
 Kortrijk 18/08/1996  
@@ -16,7 +14,7 @@ Belgian
 
 # Experience
 ## PhD student – KU Leuven (50%) (2019-...)
- * Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_ 
+ * Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_
 ## Teaching Assistant – KU Leuven (50%) (2019-...)
  * Teaching statistical bachelor and master courses in the faculty of medicine
  * Guiding dissertations
