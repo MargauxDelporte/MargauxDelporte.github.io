@@ -19,8 +19,8 @@ Belgian
  * Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_ 
 ## Teaching Assistant – KU Leuven (50%) (2019-...)
  * Teaching statistical bachelor and master courses in the faculty of medicine
- * guiding dissertations
- * statistical consulting
+ * Guiding dissertations
+ * Statistical consulting
 ## Data Science Intern – De Persgroep-Medialaan (Summer 2019)
  * Personalization of the newsfeed 
 ## Junior Statistician at Leuven Statistics Research Centre – KU Leuven (2018-2019)
