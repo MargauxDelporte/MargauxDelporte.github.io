@@ -10,5 +10,5 @@ title: "Courses guided as teaching assistant"
 
 ## Bachelor courses
 * Introduction to medical research (Bachelor of Medicine)
-* Introduction to biostatistics(Bachelor of Medicine)
+* Introduction to biostatistics (Bachelor of Medicine)
 * Pharmaceutical data analysis (Bachelor in Pharmaceutical Sciences)
