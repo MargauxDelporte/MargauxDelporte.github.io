@@ -37,7 +37,7 @@ title: "List of presentations"
 * _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
 * [Presentation](Taiwan.pdf)
   
-### Research Day DSI
+### Research Day Interuniversity Institute for Biostatistics and statistical Bioinformatics
 * _Location:_ Leuven, Belgium
 * _Date:_ 21 October, 2021
 * _Title:_ A joint normal-binary(probit) model
