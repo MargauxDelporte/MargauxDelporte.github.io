@@ -4,7 +4,7 @@ title: "List of publications"
 ---
 
 1.	<b> Delporte, M.</b>, Molenberghs, G., Fieuws, S., Verbeke, G. (2024). A Joint Normal-Ordinal(Probit) Model for Ordinal and Continuous Longitudinal Data. Biostatistics. Accepted
-2.	Delporte M., Fieuws, S., Molenberghs, G., Verbeke, G, De Coninck D., & Hoorens, V. (2023). A Joint Normal-Binary (Probit) Model for High-Dimensional Longitudinal Data. Statistical Modelling. Accepted.
+2.	<b>Delporte, M.</b>, Fieuws, S., Molenberghs, G., Verbeke, G, De Coninck D., & Hoorens, V. (2023). A Joint Normal-Binary (Probit) Model for High-Dimensional Longitudinal Data. Statistical Modelling. Accepted.
 3.	Natalia, Y.A., <b> Delporte, M.</b>, De Witte, D., Beutels, P., Dewatripont, M., Molenberghs, G. (2023). Assessing the impact of COVID-19 passes and mandates on disease transmission, vaccination intention, and uptake: a scoping review. BMC Public Health, 23 (1). 
 4.	<b> Delporte, M.</b>, De Witte, D., Molenberghs, G., Verbeke, G., Demarest, S., & Hoorens, V. (2023). Do Health Beliefs About COVID-19 Predict Morbidity? A Longitudinal Study. Social and Personality Psychology Compass. 17(11). e12852.
 5.	Delporte M, De Coninck D, d'Haenens L, Luyts M, Verbeke G, Molenberghs G, Matthys K. (2023). A longitudinal perspective on perceived vulnerability to disease during the COVID-19 pandemic in Belgium. Health Promotion International, 38(2).
