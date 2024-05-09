@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <p align="center"">
-  ![Mgx_round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7)
+   <img src=https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7 width="100%" />
 </p>
 ## Margaux Delporte
 
