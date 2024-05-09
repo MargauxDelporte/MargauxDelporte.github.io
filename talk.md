@@ -20,7 +20,7 @@ title: "List of presentations"
 * _Location:_ Riga, Latvia
 * _Date:_ July  10-15, 2022
 * _Title:_ A joint normal-binary(probit) model
-* [Presentation](Delporte_presentation_IBC2022)
+* [Presentation](Delporte_presentation_IBC2022.pdf)
    
 ## Local talks
 
