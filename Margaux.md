@@ -12,16 +12,16 @@ Belgian
 
 # Experience
 * PhD student – KU Leuven (50%)
- *Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_ 
+ * Topic:  _A joint model for longitudinal outcomes and longitudinal covariates_ 
 * Teaching Assistant – KU Leuven (50%)
- *Teaching statistical bachelor and master courses in the faculty of medicine, guiding dissertations, statistical consulting
-*Data Science Intern – De Persgroep-Medialaan 
- *Personalization of the newsfeed 
-*Junior Statistician at Leuven Statistics Research Centre – KU Leuven
- *Providing consultancy and teaching short courses for researchers  
-*Data science intern – Vente-Exclusive via Exellys
- *Business intelligence and machine learning projects
-*Group fitness instructor – POP Pilates
+ * Teaching statistical bachelor and master courses in the faculty of medicine, guiding dissertations, statistical consulting
+* Data Science Intern – De Persgroep-Medialaan 
+ * Personalization of the newsfeed 
+* Junior Statistician at Leuven Statistics Research Centre – KU Leuven
+ * Providing consultancy and teaching short courses for researchers  
+* Data science intern – Vente-Exclusive via Exellys
+ * Business intelligence and machine learning projects
+* Group fitness instructor – POP Pilates
 
 # Languages
 * Dutch
