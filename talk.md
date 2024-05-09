@@ -19,8 +19,8 @@ title: "List of presentations"
 ### 31th International Biometric Conference
 * _Location:_ Riga, Latvia
 * _Date:_ July  10-15, 2022
-* _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](https://www.overleaf.com/read/dkzyztszxmcv#7bdcdb)
+* _Title:_ A joint normal-binary(probit) model
+* [Presentation](Delporte_presentation_IBC2022)
    
 ## Local talks
 
@@ -28,7 +28,7 @@ title: "List of presentations"
 * _Location:_ Leuven, Belgium
 * _Date:_ 23 November 2023
 * _Title:_ A longitudinal perspective on perceived vulnerability to disease during the COVID-19-pandemic in Belgium
-* [Presentation](https://www.overleaf.com/read/dkzyztszxmcv#7bdcdb)
+* [Presentation](Lstat_day.pdf)
 
 ### Seminar Taiwan
 * _Location:_ Leuven, Belgium
