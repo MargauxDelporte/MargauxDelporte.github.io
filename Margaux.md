@@ -1,9 +1,9 @@
 # CURRICULUM VITAE 
 
-<Margaux Delporte
-margauxdelporte@gmail.com
-Kortrijk 18/08/1996
-Belgian
+Margaux Delporte  
+margauxdelporte@gmail.com  
+Kortrijk 18/08/1996  
+Belgian  
 
 # Education
 
