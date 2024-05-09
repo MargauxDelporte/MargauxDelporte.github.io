@@ -7,8 +7,8 @@ Belgian
 
 # Education
 
-* Master of Statistics– KU Leuven - magna cum laude - 2017-2019
-* Bachelor of Psychology– KU Leuven - cum laude - 2014-2017
+* Master of Statistics– KU Leuven    magna cum laude - 2017-2019
+* Bachelor of Psychology– KU Leuven   cum laude - 2014-2017
 
 # Experience
 * PhD student – KU Leuven (50%)
