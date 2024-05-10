@@ -12,13 +12,13 @@ title: "List of presentations"
 ### Eastern North American Region International Biometric Society 2023, Spring meeting
 * _Location:_ Nashville, Tennessee
 * _Date:_ March 19-22, 2023
-* _Title:_ A joint normal-binary (probit) model for high-dimensional data.
+* _Title:_ A joint normal-binary (Probit) model for high-dimensional data.
 * [Presentation](ENAR.pdf)
   
 ### 31th International Biometric Conference
 * _Location:_ Riga, Latvia
 * _Date:_ July  10-15, 2022
-* _Title:_ A joint normal-binary(probit) model
+* _Title:_ A joint normal-binary(Probit) model
 * [Presentation](Delporte_presentation_IBC2022.pdf)
    
 ## Local talks
