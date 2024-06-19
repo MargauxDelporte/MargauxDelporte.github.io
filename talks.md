@@ -4,6 +4,11 @@ title: "List of presentations"
 ---
 ## Presentations at international conferences
 
+### 32nd International Biometric Conference
+* _Location:_ Atlanta, Geogia
+* _Date:_ December 8-13, 2024
+* _Title:_ A Pseudo-likelihood Approach for Fitting Multivariate Probit Models
+  
 ### Joint Statistical Meetings 2024
 * _Location:_ Portland, Oregon
 * _Date:_ August 3-8, 2024
