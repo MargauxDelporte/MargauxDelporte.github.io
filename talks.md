@@ -28,6 +28,12 @@ title: "List of presentations"
    
 ## Local talks
 
+### European Joint Programme Rare diseases
+* _Location:_ Paris, France
+* _Date:_ June 14, 2024
+* _Title:_ Key Findings from the Dravet Syndrome Registry
+* [Presentation](Paris_EJPRD.pdf.pdf)
+  
 ### Leuven Statistics Days
 * Theme: Collaboration
 * _Location:_ Leuven, Belgium
