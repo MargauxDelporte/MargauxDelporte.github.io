@@ -2,6 +2,15 @@
 layout: page
 title: "List of publications"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P52QC73R53');
+</script>
 
 1.	<b> Delporte, M.</b>, Molenberghs, G., Fieuws, S., & Verbeke, G. (2024). A Joint Normal-Ordinal (Probit) Model for Ordinal and Continuous Longitudinal Data. _Biostatistics_. Accepted. [Link](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae014/7692336?utm_source=advanceaccess&utm_campaign=biostatistics&utm_medium=email) / [Researchgate](https://www.researchgate.net/publication/381401094_A_joint_normal-ordinal_probit_model_for_ordinal_and_continuous_longitudinal_data) / [Supplementary materials](Chapter4.pdf)
 2.	<b>Delporte, M.</b>, Fieuws, S., Molenberghs, G., Verbeke, G, De Coninck D., & Hoorens, V. (2023). A Joint Normal-Binary (Probit) Model for High-Dimensional Longitudinal Data. _Statistical Modelling_. Accepted. [Link](https://journals.sagepub.com/doi/abs/10.1177/1471082X231202341) / [Researchgate](https://www.researchgate.net/publication/376315280_A_joint_normal-binary_probit_model_for_high-dimensional_longitudinal_data) / [Supplementary materials](Chapter3.pdf)
