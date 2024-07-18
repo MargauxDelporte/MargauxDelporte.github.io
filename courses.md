@@ -2,7 +2,15 @@
 layout: page
 title: "Courses guided as a teaching assistant"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-P52QC73R53');
+</script>
 ## Master level
 * 'E0C56A: Clinical Scientific Preparation for the Master's Paper', Master of Medicine, KU Leuven, 2019-2025
 * 'K09M1A: Statistics for drug development', Master in Pharmaceutical Sciences, KU Leuven, 2019-2025
