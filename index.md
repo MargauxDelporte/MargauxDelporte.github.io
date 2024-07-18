@@ -2,6 +2,15 @@
 layout: page
 title: ""
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P52QC73R53');
+</script>
 
 ![Mgx Round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7)
 
