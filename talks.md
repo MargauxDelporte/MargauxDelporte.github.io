@@ -22,6 +22,7 @@ title: "List of presentations"
 * _Location:_ Portland, Oregon
 * _Date:_ August 3-8, 2024
 * _Title:_ A Joint Normal-Ordinal (Probit) Model for Ordinal and Continuous Longitudinal Data
+* [Presentation](Presentation_JSM__ordinal_data.pdf)
   
 ### Eastern North American Region International Biometric Society 2023, Spring meeting
 * _Location:_ Nashville, Tennessee
