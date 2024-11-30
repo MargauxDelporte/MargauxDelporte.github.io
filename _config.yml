@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "courses.md", title: Teaching}
   - {file: "CV.md", title: CV}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:margaux.delporte@kuleuven.be"}
+  - {title: Mail, icon: envelope, url: "mailto:mde4023@med.cornell.edu"}
   - {title: Github, icon: github, url: "https://github.com/margauxdelporte"}
   - {title: Subscribe, icon: rss, url: "https://www.researchgate.net/profile/Margaux-Delporte"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/margaux-delporte-28a360147/"}
