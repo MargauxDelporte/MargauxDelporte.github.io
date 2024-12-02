@@ -2,15 +2,7 @@
 layout: page
 title: "List of publications"
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-P52QC73R53');
-</script>
 1. <b> Delporte, M.</b>, Verbeke, G., Fieuws, S., & Molenberghs, G. (2024). Accelerating Computation: A Pairwise Fitting Technique for Multivariate Probit Models. _Computational Statistics & Data Analysis_. Accepted. [Link](https://www.sciencedirect.com/science/article/pii/S016794732400166X?via%3Dihub) / [Researchgate](https://www.researchgate.net/publication/385480363_Accelerating_Computation_A_Pairwise_Fitting_Technique_for_Multivariate_Probit_Models) 
 2.	<b> Delporte, M.</b>, Aerts, M.,  Verbeke, G., & Molenberghs, G. (2024). Analysing matched continuous longitudinal data: A
 review. _Statistical Methods in Medical Research_. In Press. [Link]() / [Researchgate]()
