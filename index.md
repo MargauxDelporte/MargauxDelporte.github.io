@@ -1,7 +1,8 @@
 ---
-layout: page
-title: ""
----
+ layout: page
+ title: ""
+ ---
+
 <!-- Google tag (gtag.js) -->
  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
  <script>
@@ -12,7 +13,7 @@ title: ""
    gtag('config', 'G-P52QC73R53');
  </script>
  
- ![Mgx Round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7)
+![Mgx Round](https://github.com/MargauxDelporte/MargauxDelporte.github.io/assets/51527029/c41a0d2b-9b65-4370-b157-eed7ec8d7be7)
 
 ## Margaux Delporte
 
