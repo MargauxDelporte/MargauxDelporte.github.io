@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Margaux Delporte"
+title: ""
 ---
 
 <!-- Google tag (gtag.js) -->
