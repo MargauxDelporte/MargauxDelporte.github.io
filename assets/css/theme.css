@@ -1,0 +1,37 @@
+:root {
+  --crimson: #B31B1B;
+  --crimson-dark: #8e1515; /* approx darken 10% */
+  --crimson-light: #e06666; /* approx lighten 20% */
+  --white: #ffffff;
+}
+
+header, footer {
+  background: var(--crimson);
+  color: var(--white);
+  padding: 1rem;
+}
+
+a {
+  color: var(--crimson);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--crimson-dark);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: linear-gradient(135deg, var(--crimson), var(--crimson-light));
+  color: var(--white);
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
