@@ -8,4 +8,4 @@
   gtag('config', 'G-P52QC73R53');
 </script>
 
-[Curriculum vitae](CV2.pdf)
+[Curriculum vitae](CV2.html)
