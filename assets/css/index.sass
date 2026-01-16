@@ -1,7 +1,28 @@
 ---
 ---
 
-@import index, font, basic, layout, classes
+@import index, font, basic, layout, classes, theme;
+
+/* Site-wide color overrides using Cornell palette */
+header, footer {
+  background: $crimson;
+  color: $white;
+  padding: 1rem;
+}
+
+a {
+  color: $crimson;
+}
+
+a:hover {
+  color: $crimson-dark;
+}
+
+.btn {
+  background: linear-gradient(135deg, $crimson, $crimson-light);
+  color: $white;
+}
+
 
 @media (min-width: 40em)
   body > header, body > article, body > footer

@@ -1,0 +1,40 @@
+// Cornell color palette theme
+$crimson: #B31B1B
+$crimson-dark: darken($crimson, 10%)
+$crimson-light: lighten($crimson, 20%)
+$white: #ffffff
+$gray: #f5f5f5
+
+/* Base styles */
+body {
+  background: $white;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $crimson;
+}
+
+a {
+  color: $crimson;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: linear-gradient(135deg, $crimson, $crimson-light);
+  color: $white;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
