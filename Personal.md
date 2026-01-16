@@ -30,7 +30,7 @@ title: "Personal"
   justify-content: center;
 }
 .personal-images img {
-  max-width: 30%;
+  max-width: 20%;
   height: auto;
   border-radius: 8px;
 }
