@@ -39,7 +39,7 @@ title: "Personal"
 <div class="personal-container">
 
 <p>
-On a personal note, I enjoy cats, nature, hiking, and running.  
+On a personal note, I enjoy running, hiking and nature.  
 In 2025, I completed the New York City Marathon and am currently training for the 2026 edition.
 </p>
 
