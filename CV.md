@@ -8,6 +8,6 @@
   gtag('config', 'G-P52QC73R53');
 </script>
 
-<div style="width:100%; height:80vh;">
-  <iframe src="CV2.pdf" style="width:100%; height:100%; border:none;"></iframe>
-</div>
+
+[Curriculum vitae](CV2.html)
+
