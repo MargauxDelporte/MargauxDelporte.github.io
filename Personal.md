@@ -45,7 +45,6 @@ In 2025, I completed the New York City Marathon and am currently training for th
 
 <div class="personal-images">
   <img src="https://github.com/user-attachments/assets/f3fde5e8-99ca-45eb-8007-cab17a33693b" alt="image" />
-  <img src="https://github.com/user-attachments/assets/cba4e0e7-d171-4e30-af0c-e2f417f8e167" alt="image" />
   <img src="https://github.com/user-attachments/assets/418164ed-e191-4b19-89ad-b119509050ef" alt="image" />
 </div>
 
