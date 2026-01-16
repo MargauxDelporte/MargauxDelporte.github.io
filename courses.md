@@ -12,7 +12,7 @@ title: "Courses guided as a teaching assistant"
   gtag('config', 'G-P52QC73R53');
 </script>
 ## Weill Cornell Medicine
-* 'HBDS 5008: Biostatistics II', MS in Biostatistics and Data Science, Weill Cornell Medicine, 2024-2025
+* 'HBDS 5008: Biostatistics II', MS in Biostatistics and Data Science, Weill Cornell Medicine, 2024-2026
 
 ## KU Leuven
 * 'E0C56A: Clinical Scientific Preparation for the Master's Paper', Master of Medicine, KU Leuven, 2019-2025
