@@ -40,7 +40,7 @@ title: "Personal"
 
 <p>
 On a personal note, I enjoy running, hiking and nature.  
-In 2025, I completed the New York City Marathon and am currently training for the 2026 edition.
+In 2025, I completed the New York City Marathon and I am currently training for the 2026 edition.
 </p>
 
   <img src="https://github.com/user-attachments/assets/f3fde5e8-99ca-45eb-8007-cab17a33693b" alt="image" />
