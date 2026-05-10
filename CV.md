@@ -9,5 +9,5 @@
 </script>
 
 
-[Curriculum vitae](CV.pdf)
+[Curriculum vitae](CV2.html)
 
