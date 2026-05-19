@@ -1,3 +1,7 @@
+---
+layout: page
+title: "CV"
+---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P52QC73R53"></script>
 <script>
