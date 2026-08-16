@@ -16,7 +16,7 @@ title: ""
 
 ## Margaux Delporte
 
-Margaux Delporte is a postdoctoral fellow at Weill Cornell Medicine, focusing on developing novel methods for selecting key features from a large pool of potential variables, while controlling the false discovery rate. Additionally, she leverages omics data and health outcomes to understand biological predictors of breast cancer risk and survival. She earned her PhD in Biostatistics from KU Leuven, with a thesis focused on longitudinal data analysis: "A Joint Model for Longitudinal Outcomes and Longitudinal Covariates". In the fall, she will be joining the University of Rhode Island as an tenure-track assistant professor of public health in biostatistics. 
+Margaux Delporte is a tenure-track assistant professor of public health in biostatistics at the University of Rhode Island. She earned her PhD in Biostatistics from KU Leuven, with a thesis focused on joint modelling and longitudinal data analysis. Additionally, she was a postdoctoral associate at Weill Cornell Medicine, focusing on developing novel methods for controlling the false discovery rate, with applications in breast cancer. 
 
 
 
