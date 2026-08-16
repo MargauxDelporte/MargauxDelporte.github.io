@@ -12,7 +12,7 @@ title: "Teaching"
   gtag('config', 'G-P52QC73R53');
 </script>
 ## University of Rhode Island
-* **HLT503 - Statistical Application of Public Health Research**<br>
+* **HLT503: Statistical Application of Public Health Research**<br>
   MS in Public Health, 2026-2027
   
 ## Weill Cornell Medicine (TA)
