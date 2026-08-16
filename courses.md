@@ -15,11 +15,11 @@ title: "Teaching"
 * **HLT503 - Statistical Application of Public Health Research**<br>
   MS in Public Health, 2026-2027
   
-## Weill Cornell Medicine
+## Weill Cornell Medicine (TA)
 * **HBDS 5008: Biostatistics II**<br>
   MS in Biostatistics and Data Science, 2024-2026
 
-## KU Leuven
+## KU Leuven (TA)
 * **E0C56A: Clinical Scientific Preparation for the Master's Paper**<br>
   Master of Medicine, 2019-2025
 * **K09M1A: Statistics for Drug Development**<br>
