@@ -16,7 +16,7 @@ title: ""
 
 ## Margaux Delporte
 
-Margaux Delporte is a tenure-track assistant professor of public health in biostatistics at the University of Rhode Island. She earned her PhD in Biostatistics from KU Leuven, with a thesis focused on joint modelling and longitudinal data analysis. Additionally, she was a postdoctoral associate at Weill Cornell Medicine, focusing on developing novel methods for controlling the false discovery rate, with applications in breast cancer. 
+Dr. Margaux Delporte is an Assistant Professor in Biostatistics at the Department of Public Health at the University of Rhode Island. Her research focuses on joint modeling, longitudinal data analysis, high-dimensional data, and false discovery rate control. She received her Ph.D. in Biostatistics from KU Leuven in Belgium, where her doctoral work focused on joint models for complex longitudinal data, and completed postdoctoral research at Cornell University.
 
 
 
