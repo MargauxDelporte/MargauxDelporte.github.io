@@ -23,11 +23,11 @@ Dr. Margaux Delporte is an Assistant Professor in Biostatistics at the Departmen
 <div class="updates-grid">
   <div class="update-date">2026/09/09</div>
   <div class="update-text">
-    Started as Assistant Professor at the <a href="https://web.uri.edu/chs/2026/09/25/biostatistician-joins-uris-department-of-public-health-faculty/">University of Rhode Island</a>.
+    Started as Assistant Professor at the University of Rhode Island [<a href="https://web.uri.edu/chs/2026/09/25/biostatistician-joins-uris-department-of-public-health-faculty/">article</a>].
   </div>
   <div class="update-date">2024/10/22</div>
   <div class="update-text">
-    Finished PhD at <a href="https://gbiomed.kuleuven.be/english/research/50000687/news-new/News_stories/margaux-delporte-to-defend-her-phd-a-joint-model-for-longitudinal-outcomes-and-longitudinal-covariates">KU Leuven</a> and started a postdoc at Weill Cornell Medicine.
+    Finished PhD at KU Leuven and started a postdoc at Weill Cornell Medicine [<a href="https://gbiomed.kuleuven.be/english/research/50000687/news-new/News_stories/margaux-delporte-to-defend-her-phd-a-joint-model-for-longitudinal-outcomes-and-longitudinal-covariates">article</a>].
   </div>
 </div>
 

@@ -25,14 +25,18 @@ title: "Personal"
 /* Image layout */
 .personal-images {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  flex-direction: row;
+  gap: 15px;
   justify-content: center;
+  align-items: center;
+  margin-top: 20px;
 }
 .personal-images img {
-  max-width: 20%;
+  width: 45%;
+  max-width: 240px;
   height: auto;
   border-radius: 8px;
+  object-fit: cover;
 }
 </style>
 
@@ -43,8 +47,10 @@ On a personal note, I enjoy running, hiking and nature.
 In 2025, I completed the New York City Marathon and I am currently training for the 2026 edition.
 </p>
 
-  <img src="https://github.com/user-attachments/assets/f3fde5e8-99ca-45eb-8007-cab17a33693b" alt="image" />
-  <img src="https://github.com/user-attachments/assets/418164ed-e191-4b19-89ad-b119509050ef" alt="image" />
+<div class="personal-images">
+  <img src="https://github.com/user-attachments/assets/f3fde5e8-99ca-45eb-8007-cab17a33693b" alt="Margaux Delporte running" />
+  <img src="https://github.com/user-attachments/assets/418164ed-e191-4b19-89ad-b119509050ef" alt="Margaux Delporte marathon" />
+</div>
 </div>
 
 
