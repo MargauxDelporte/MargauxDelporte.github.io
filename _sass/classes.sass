@@ -141,24 +141,26 @@ a:hover .icon
 
 .updates-grid
   display: grid
-  grid-template-columns: minmax(105px, auto) 1fr
-  gap: 0.75em 1.25em
-  margin: 1.5em 0
+  grid-template-columns: max-content 1fr
+  gap: 0.4em 1.25em
+  margin: 1.25em 0
   align-items: baseline
+  font-size: 0.85em
 
 .update-date
-  font-weight: 600
-  font-size: 0.9em
-  opacity: 0.85
+  font-style: italic
   white-space: nowrap
+  opacity: 0.85
 
 .update-text
-  line-height: 1.5
+  line-height: 1.4
+  white-space: nowrap
 
-@media (max-width: 500px)
+@media (max-width: 600px)
   .updates-grid
-    grid-template-columns: 1fr
-    gap: 0.25em 0
-  .update-date
-    margin-top: 0.75em
+    grid-template-columns: max-content 1fr
+    gap: 0.4em 0.8em
+  .update-text
+    white-space: normal
+
 
