@@ -13,7 +13,16 @@ title: "List of presentations"
 </script>
 ## Presentations at international conferences
 
- 
+### Eastern North American Region International Biometric Society 2025
+* _Type:_ Invited Talk
+* _Date:_ 2025
+* _Title:_ Longitudinal Data Analysis in the Istore Project
+
+### American Society of Human Genetics Annual Meeting 2025
+* _Type:_ Contributed Talk
+* _Date:_ 2025
+* _Title:_ Polygenic Risk Scores as Predictors of Lethal Breast Cancer
+
 ### Joint Statistical Meetings 2024
 * _Location:_ Portland, Oregon
 * _Date:_ August 3-8, 2024

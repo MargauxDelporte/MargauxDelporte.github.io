@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @page {
+    size: letter;
+    margin: 0.5in 0.65in 0.5in 0.65in;
+  }
+  body {
+    font-family: "Latin Modern Roman", "Computer Modern", "Georgia", "Times New Roman", serif;
+    font-size: 10pt;
+    line-height: 1.3;
+    color: #000;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .page {
+    position: relative;
+    height: 9.8in;
+    box-sizing: border-box;
+    page-break-after: always;
+    break-after: page;
+  }
+  .page-last {
+    position: relative;
+    height: 9.8in;
+    box-sizing: border-box;
+  }
+  .page-num {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 10pt;
+  }
+
+  .header {
+    text-align: center;
+    margin-bottom: 1.2em;
+  }
+  .header h1 {
+    font-size: 20pt;
+    font-weight: normal;
+    margin: 0 0 3px 0;
+  }
+  .header .contact {
+    font-size: 10pt;
+    margin-bottom: 2px;
+  }
+  .header .links {
+    font-size: 10pt;
+    margin-bottom: 4px;
+  }
+  .header .updated {
+    font-style: italic;
+    font-size: 9.5pt;
+  }
+  
+  h2 {
+    font-size: 10.5pt;
+    font-weight: bold;
+    border-bottom: 0.75px solid #000;
+    padding-bottom: 1px;
+    margin-top: 1.1em;
+    margin-bottom: 0.4em;
+  }
+  h3 {
+    font-size: 10pt;
+    font-weight: bold;
+    margin-top: 0.7em;
+    margin-bottom: 0.3em;
+  }
+
+  .entry {
+    margin-bottom: 0.35em;
+  }
+  .entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .entry-title {
+    font-weight: normal;
+  }
+  .entry-title strong {
+    font-weight: bold;
+  }
+  .entry-date {
+    white-space: nowrap;
+  }
+  ul {
+    margin: 0.15em 0 0.35em 1.3em;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 0.12em;
+  }
+
+  ol.publications {
+    margin: 0.2em 0 0.5em 1.4em;
+    padding: 0;
+  }
+  ol.publications li {
+    margin-bottom: 0.38em;
+    text-align: justify;
+    line-height: 1.25;
+  }
+
+  .skills-row {
+    margin-bottom: 0.25em;
+  }
+  .skills-label {
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<!-- PAGE 1 -->
+<div class="page">
+  <div class="header">
+    <h1>Margaux Delporte</h1>
+    <div class="contact">New York, NY</div>
+    <div class="contact">margaux.delporte@uri.edu</div>
+    <div class="links">Website &mdash; GitHub &mdash; Google Scholar</div>
+    <div class="updated">Last updated: September 9, 2026</div>
+  </div>
+
+  <h2>Education</h2>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>PhD in Biostatistics (50%)</strong> &ndash; KU Leuven, Belgium</div>
+      <div class="entry-date">2019&ndash;2024</div>
+    </div>
+    <ul>
+      <li>Thesis: <em>A joint model for longitudinal outcomes and longitudinal covariates</em></li>
+      <li>Supervisors: Drs. Geert Verbeke and Geert Molenberghs</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Master of Science in Statistics</strong> &ndash; KU Leuven, Belgium</div>
+      <div class="entry-date">2017&ndash;2019</div>
+    </div>
+    <ul>
+      <li>Thesis: <em>Learning Dashboard Activity as a &ldquo;Learning Trace&rdquo;</em></li>
+      <li>Supervisor: Dr. Tinne De Laet</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Bachelor of Science in Psychology</strong> &ndash; KU Leuven, Belgium</div>
+      <div class="entry-date">2014&ndash;2017</div>
+    </div>
+  </div>
+
+  <h2>Experience</h2>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>TT Assistant Professor in Biostatistics</strong> &ndash; University of Rhode Island, RI</div>
+      <div class="entry-date">2026&ndash;Present</div>
+    </div>
+    <ul>
+      <li>Department of Public Health, College of Health Sciences</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Postdoctoral Researcher</strong> &ndash; Weill Cornell Medicine, New York, NY</div>
+      <div class="entry-date">2024&ndash;2026</div>
+    </div>
+    <ul>
+      <li>Dep. Population Health Sciences, Div. Biostatistics (50%) &amp; Div. Epidemiology (50%)</li>
+      <li>False discovery rate control in high-dimensional data (Dr. Yushu Shi)</li>
+      <li>Cancer prevention and risk prediction in breast cancer (Dr. Rulla Tamimi)</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Teaching Assistant (50%)</strong> &ndash; KU Leuven, Belgium</div>
+      <div class="entry-date">2019&ndash;2024</div>
+    </div>
+    <ul>
+      <li>Taught six undergraduate and graduate courses in biostatistics for 400+ students</li>
+      <li>Supervised two graduate students in Statistics</li>
+      <li>Delivered statistical consulting to medical researchers</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Data Science Intern</strong> &ndash; De Persgroep-Medialaan, Brussels, Belgium</div>
+      <div class="entry-date">2019</div>
+    </div>
+    <ul>
+      <li>Personalized the newsfeed using machine learning techniques</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Junior Statistician</strong> &ndash; Leuven Statistics Research Centre, KU Leuven</div>
+      <div class="entry-date">2018&ndash;2019</div>
+    </div>
+    <ul>
+      <li>Provided consultancy and taught short courses for researchers</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-header">
+      <div class="entry-title"><strong>Data Science Intern</strong> &ndash; Vente-Exclusive, Brussels, Belgium</div>
+      <div class="entry-date">2018</div>
+    </div>
+    <ul>
+      <li>Created an automatically updating dashboard with metrics to track flash sales</li>
+    </ul>
+  </div>
+
+  <h2>Skills</h2>
+  <div class="skills-row"><strong>Statistics:</strong> Longitudinal data, multivariate data, high-dimensional data, survival analysis, HPC</div>
+  <div class="skills-row"><strong>Software:</strong> R, SAS, Python, SPSS, Stata, SQL, GitHub</div>
+  <div class="skills-row"><strong>Languages:</strong> Dutch (native), English (fluent), French (intermediate)</div>
+
+  <div class="page-num">1</div>
+</div>
+
+<!-- PAGE 2 -->
+<div class="page">
+  <h2>Publications</h2>
+  <h3>Methodological Papers</h3>
+  <ol class="publications" start="1">
+    <li>Delporte, M., Verbeke, G., Fieuws, S., &amp; Molenberghs, G. (2025). Accelerating Computation: A Pairwise Fitting Technique for Multivariate Probit Models. <em>Computational Statistics &amp; Data Analysis</em>, 203, 108082.</li>
+    <li>Delporte, M., Aerts, M., Verbeke, G., &amp; Molenberghs, G. (2025). Analysing matched continuous longitudinal data: A review. <em>Statistical Methods in Medical Research</em>, 34(1), 170&ndash;179.</li>
+    <li>Delporte, M., Molenberghs, G., Fieuws, S., &amp; Verbeke, G. (2024). A Joint Normal-Ordinal (Probit) Model for Ordinal and Continuous Longitudinal Data. <em>Biostatistics</em>, 26(1).</li>
+    <li>Delporte, M., Fieuws, S., Molenberghs, G., Verbeke, G., De Coninck, D., &amp; Hoorens, V. (2023). A Joint Normal-Binary (Probit) Model for High-Dimensional Longitudinal Data. <em>Statistical Modelling</em>, 25(1), 13&ndash;34.</li>
+    <li>Delporte, M., Fieuws, S., Molenberghs, G., Verbeke, G., Wanyama, S.S., Hatziagorou, E., &amp; De Boeck, C. (2022). A joint normal-binary (probit) model. <em>International Statistical Review</em>, 90, S37&ndash;S51.</li>
+  </ol>
+
+  <h3>Applied Papers</h3>
+  <ol class="publications" start="6">
+    <li>Biesbrouck, T., Leleu, M., Delporte, M., Janssens, W., Flamaing, J., Van Den Noortgate, N., Piers, R., &amp; De Roo, M.. (2026). Differences in Perceptions of Quality of Dying Scores during the Last Days of Life on Belgian Acute Geriatric Wards: A prospective observational study in Relatives, Nurses, and Doctors. <em>European Geriatric Medicine</em>. Accepted for publication.</li>
+    <li>Delporte, M., De Witte, D., Molenberghs, G., Verbeke, G., Demarest, S., &amp; Hoorens, V. (2025). Recent Personal and Vicarious Experience With COVID-19 Affect Personal, but not Comparative Optimism. A Large Longitudinal Study. <em>Journal of Behavioral Medicine</em>, 48, 770&ndash;784.</li>
+    <li>Delporte, M., Verbeeck, J., Brambilla, I., Zimmermann, G., Molenberghs, G., Nabbout, R., &amp; Residras Collaboration Group. (2025). Dravet Syndrome: Insights into Seizure and Speech Progression from Registry Data. <em>Epilepsy &amp; Behavior</em>, 170, 110456.</li>
+    <li>Natalia, Y.A., Delporte, M., De Witte, D., Beutels, P., Dewatripont, M., &amp; Molenberghs, G. (2023). Assessing the impact of COVID-19 passes and mandates on disease transmission, vaccination intention, and uptake: a scoping review. <em>BMC Public Health</em>, 23(1).</li>
+    <li>Delporte, M., De Witte, D., Molenberghs, G., Verbeke, G., Demarest, S., &amp; Hoorens, V. (2023). Do Health Beliefs About COVID-19 Predict Morbidity? A Longitudinal Study. <em>Social and Personality Psychology Compass</em>, 17(11), e12852.</li>
+    <li>Delporte, M., De Coninck, D., d&rsquo;Haenens, L., Luyts, M., Verbeke, G., Molenberghs, G., &amp; Matthys, K. (2023). A longitudinal perspective on perceived vulnerability to disease during the COVID-19 pandemic in Belgium. <em>Health Promotion International</em>, 38(2).</li>
+    <li>Delporte, M., Luyts, M., Molenberghs, G., Verbeke, G., Demarest, S., &amp; Hoorens, V. (2023). Do optimism and moralization predict vaccination? A five-wave longitudinal study. <em>Health Psychology</em>, 42(8), 603&ndash;614.</li>
+  </ol>
+
+  <div class="page-num">2</div>
+</div>
+
+<!-- PAGE 3 -->
+<div class="page">
+  <ol class="publications" start="13">
+    <li>Van Eijgen, J., Heintz, A., van der Pluijm, C., Delporte, M., De Witte, D., Molenberghs, G., Barbosa-Breda, J., &amp; Stalmans, I. (2023). Normal tension glaucoma: A dynamic optical coherence tomography angiography study. <em>Frontiers in Medicine</em>, 9, 1037471.</li>
+    <li>De Witte, D., Delporte, M., Molenberghs, G., Verbeke, G., &amp; Hoorens, V. (2023). Self-uniqueness beliefs and adherence to recommended precautions. A 5-wave longitudinal COVID-19 study. <em>Social Science &amp; Medicine</em>, 317.</li>
+    <li>Vandekerckhove, I., van den Hauwe, M., De Beukelaer, N., Stoop, E., Goudriaan, M., Delporte, M., Molenberghs, G., Van Campenhout, A., De Waele, L., Goemans, N., De Groote, F., &amp; Desloovere, K. (2022). Longitudinal Alterations in Gait Features in Growing Children With Duchenne Muscular Dystrophy. <em>Frontiers in Human Neuroscience</em>, 16, 861136.</li>
+    <li>Broos, T., Pinxten, M., Delporte, M., Verbert, K., &amp; De Laet, T. (2020). Learning dashboards at scale: early warning and overall first year experience. <em>Assessment &amp; Evaluation in Higher Education</em>, 45(6), 855&ndash;874.</li>
+  </ol>
+
+  <h2>Presentations at International Conferences</h2>
+  <h3>Invited Talks</h3>
+  <ul>
+    <li>Eastern North American Region International Biometric Society, 2025. <em>Longitudinal Data Analysis in the Istore Project</em>.</li>
+  </ul>
+
+  <h3>Contributed Talks</h3>
+  <ul>
+    <li>American Society of Human Genetics Annual Meeting, 2025. <em>Polygenic Risk Scores as Predictors of Lethal Breast Cancer</em>.</li>
+    <li>Joint Statistical Meetings, 2024. <em>A Joint Normal-Ordinal (Probit) Model for Ordinal and Continuous Longitudinal Data</em>.</li>
+    <li>Eastern North American Region International Biometric Society Spring Meeting, 2023. <em>A Joint Normal-Binary (Probit) Model for High-Dimensional Data</em>.</li>
+    <li>31st International Biometric Conference, 2022. <em>A Joint Normal-Binary (Probit) Model</em>.</li>
+  </ul>
+
+  <h2>Teaching Experience</h2>
+  <h3>Graduate Level</h3>
+  <ul>
+    <li>HLT 503: Statistical Application of Public Health Research, MPH, University of Rhode Island, 2026&ndash;</li>
+    <li>HBDS 5008: Biostatistics II, MS in Biostatistics and Data Science, Weill Cornell Medicine, 2024&ndash;2026 (TA)</li>
+    <li>E0C56A: Clinical Scientific Preparation for the Master&rsquo;s Paper, Master of Medicine, KU Leuven, 2019&ndash;2025 (TA)</li>
+    <li>K09M1A: Statistics for Drug Development, Master in Pharmaceutical Sciences, KU Leuven, 2019&ndash;2025 (TA)</li>
+    <li>E0G65A: Statistics Part I: Theory and Exercises, Master of Nursing Science, KU Leuven, 2020&ndash;2025 (TA)</li>
+  </ul>
+
+  <div class="page-num">3</div>
+</div>
+
+<!-- PAGE 4 -->
+<div class="page-last">
+  <h3>Undergraduate Level</h3>
+  <ul>
+    <li>E04Y6A: Introduction to Medical Research, Bachelor of Medicine, KU Leuven, 2019&ndash;2025 (TA)</li>
+    <li>E06Y7A: Introduction to Biostatistics, Bachelor of Medicine, KU Leuven, 2019&ndash;2025 (TA)</li>
+    <li>K08B6A: Pharmaceutical Data Analysis, Bachelor in Pharmaceutical Sciences, KU Leuven, 2019&ndash;2025 (TA)</li>
+  </ul>
+
+  <h2>Grants</h2>
+  <h3>External Grants Funded</h3>
+  <ul>
+    <li>Travel Grant, The Research Foundation Flanders (FWO), Joint Statistical Meetings 2024</li>
+  </ul>
+  <h3>Not funded</h3>
+  <ul>
+    <li>Scored Competitive - NCI Pathway to Independence Award for Early-Stage Postdoctoral Researchers (K99/R00), &ldquo;Modifiable Behaviors, Immune Function, and Cancer Risk&rdquo; (October 2025)</li>
+  </ul>
+
+  <h2>Committees and Service</h2>
+  <h3>Professional Service</h3>
+  <ul>
+    <li>Meyer Cancer Center Trainee Advisory Council, 2025&ndash;2026</li>
+  </ul>
+  <h3>Reviewer</h3>
+  <ul>
+    <li>BMC Medical Research Methodology</li>
+    <li>Journal of the American Statistical Association</li>
+    <li>Annals of Applied Statistics</li>
+    <li>Biometrics</li>
+    <li>JCO Precision Oncology</li>
+    <li>Epilepsy &amp; Behavior</li>
+    <li>Journal of Applied Statistics</li>
+  </ul>
+
+  <h2>Mentoring Experience</h2>
+  <h3>Graduate Research Supervision</h3>
+  <ul>
+    <li>Diego Alejandro Gomes, MS in Statistics and Data Science, KU Leuven. &ldquo;Combining Hyperspectral Imaging Features with Multimodal Retinal Metrics to Screen for Alzheimer&rsquo;s Disease: An Exploratory Longitudinal Joint Modeling Approach.&rdquo;</li>
+    <li>Meng Wang, MS in Statistics and Data Science, KU Leuven. &ldquo;Application of Mixed Models in Longitudinal Studies of Children with Neuromotor Problems.&rdquo;</li>
+  </ul>
+  <h3>Undergraduate Research Supervision</h3>
+  <ul>
+    <li>Noah Kay, BS in Mathematics, Bowdoin College. &ldquo;Analysis of Invasive Ductal Carcinoma in the SEER Data.&rdquo;</li>
+  </ul>
+
+  <div class="page-num">4</div>
+</div>
+
+</body>
+</html>
